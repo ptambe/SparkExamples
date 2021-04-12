@@ -1,0 +1,3 @@
+operation,id,item_id,customer_id,sold_date,discount
+1,105,5,5456,01-04-2021,0
+2,116,16,24387,09-04-2021,10
